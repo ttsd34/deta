@@ -1,3 +1,1 @@
-user = {}
-user.deta = {}
-user.deta.pass = "kendea1221"
+const \u006b\u0065\u0079 = "\u006b\u0065\u006e\u0064\u0065\u0061\u0031\u0032\u0032\u0031"
